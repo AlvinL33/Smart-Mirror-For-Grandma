@@ -1,6 +1,6 @@
 # Smart-Mirror-For-Grandma
 
-MAGIC MIRROR BY ALVIN LEE
+MAGIC MIRROR BY ALVIN LEE in Python 3
 
 Without adding a Wunderground key in 'WeatherModule.py' this software will not work.
 
